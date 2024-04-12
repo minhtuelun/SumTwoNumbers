@@ -1,10 +1,11 @@
+// Program written by Adriel 
+// Program Scope : Return index of Two sum array numbers
+// Project finished : 11/4/2024
+
+
 package solution;
 import java.util.Arrays;
 import java.util.Scanner;
-/*Programmed by Adriel
-  Project finished: 11/4/2024
-  Program scope: Sum two arrays and return index
-/* 
 public class Solution {
 
   
@@ -41,6 +42,7 @@ public class Solution {
     }
     
 }
+
 
 
 /* ******************* OutPut *********************
